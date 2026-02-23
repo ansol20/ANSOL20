@@ -74,9 +74,9 @@ Always learning new things, applying technology to solve real-world problems. I 
 
 <div align="center">
   
-  | 🌟 Total Stars | 🔄 Total Commits (2025) | 🔀 Total PRs | 🐛 Total Issues | 🤝 Contributed to |
+  | 🌟 Total Stars | 🔄 Total Commits (2026) | 🔀 Total PRs | 🐛 Total Issues | 🤝 Contributed to |
   | :------------: | :----------------------: | :----------: | :-------------: | :----------------: |
-  | 0              | 2                        | 0            | 0               | 0                  |
+  | 0              | 50                        | 0            | 0               | 0                  |
   
   <div style="display: inline-block; width: 45%;">
     <h4>Most Used Languages</h4>
