@@ -20,7 +20,7 @@
 
 I'm a **sysadmin and backend developer** based in Quito, Ecuador, passionate about building practical solutions that bridge infrastructure, data, and real-world business needs.
 
-- 🏢 **Systems Administrator & DPO** at a poultry company — sole IT responsible for all infrastructure
+- 🏢 **Systems Administrator** at a poultry company — sole IT responsible for all infrastructure
 - 🔐 **Data Protection Officer** under Ecuador's LOPDP — compliance, privacy policies, DPIAs, full stack
 - 🐍 Building data pipelines and interactive dashboards with **Python**, **FastAPI**, and **Streamlit**
 - 🖥️ Self-hosted infra on **VPS** using **Dokploy**, **Docker**, **Traefik**, **Supabase**, and **Uptime Kuma**
@@ -36,7 +36,6 @@ I'm a **sysadmin and backend developer** based in Quito, Ecuador, passionate abo
 | **Polymarket Dashboard** — AI-powered prediction market analyzer | React · FastAPI · Python · Claude AI | 🟡 In progress |
 | **PIGUQ** — Citizen urban reporting platform for Quito | React Native · Node.js · PostgreSQL · PostGIS | 🟡 In progress |
 | **trackly-crm** — Lightweight CRM for small businesses | Node.js · PostgreSQL · GitHub | 🟡 Active |
-| **Magic Bean Web App** — 3D cinematic restaurant experience | Three.js · React · WebGL | 🟢 Launched |
 | **Fleet GPS Tracker** — Custom Flutter app replacing Traccar client | Flutter · Supabase · OSRM | 🔵 Planning |
 
 ---
@@ -109,7 +108,6 @@ I'm a **sysadmin and backend developer** based in Quito, Ecuador, passionate abo
 ```
 📍 Quito, Ecuador
 🏭 Industry: Agribusiness / Poultry supply chain
-⚖️  Legal: Ecuador LOPDP / SPDP data protection compliance
 🤖 AI: Claude API, DeepSeek, GPT-4o mini integrations
 💡 Side interests: Prediction markets, civic tech, fintech, self-hosted everything
 ```
